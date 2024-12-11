@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an aspiring **Junior Software Engineer** passi
 - Interest: **AI/ML, Database Optimization, Analytics**
 
 ### 📂 Featured Projects:
-- [Doggy University](Link will be uploaded once the MVP has been completed): Phase one of this application would be an educational platform for dog owners to educate themsleves on how to take care of a dog. The second phase of this project would allow small to medium buisnesses and freelancers advertise their services on the application, this could groomers, walkers sitters, trainers etc.
+- [Doggy University]🐶 (Link will be uploaded once the MVP has been completed): Phase one of this application would be an educational platform for dog owners to educate themsleves on how to take care of a dog. The second phase of this project would allow small to medium buisnesses and freelancers advertise their services on the application, this could groomers, walkers sitters, trainers etc.
 - [Open Source Contributions](https://github.com/your-repo): Actively contributing to [popular open-source projects] to collaboration and codebase quality.
 
 ### 🌱 Current Journey:
